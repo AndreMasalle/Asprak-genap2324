@@ -1,0 +1,30 @@
+Disini adalah notes mengenai soal jurnal 02
+
+
+"Notes"
+
+Saya akan berasumsi bahwa semua mahasiswa yang diajarkan hanya menguasai matakuliah sebelumnya yaitu implementasi algoritma
+dan belum memiliki kemampuan lanjutan mengenai algoritma bahasa pemrograman Java.
+
+Asumsi dan pendapat ini diambil berdasarkan kode yang saya buat, pengamatan ataupun pembicaraan yang saya lakukan terhadap beberapa individu dari berbagai kelas 
+dan berbagai angkatan sepanjang saya kuliah, dan juga Struktur mata kuliah D3 RPLA.
+
+Menurut saya, berikut ini adalah part yang dapat membuat mahasiswa bingung untuk jurnal 02 ini beserta penjelasannya:
+
+1. Mahasiswa tidak mengetahui apa itu kelas dan objek serta implementasinya:
+        -> Struktur data pasti menggunakan Konsep dasar OOP yakni melibatkan kelas dan objek. 
+            Bagian kode yang menggunakan kelas seperti InventoryItem, ATK, dan Bag 
+            mungkin sulit dipahami bagi mereka yang belum akrab dengan konsep ini
+        -> Hal ini juga berkemungkinan membuat mahasiswa bingung menganai konsep POJO
+
+2.  Konsep pewarisan(Inheritance):
+        -> Pewarisan digunakan dalam kelas ATK dan Bag untuk mewarisi sifat dari InventoryItem. 
+        Mahasiswa mungkin kesulitan memahami konsep pewarisan dan mengapa hal ini diperlukan.
+
+3.  Sorting dan Comparator:
+        -> Berdasarkan kode yang saya buat. Untuk display produk meng-sort produk berdasarkan kode produknya, 
+        sehingga mahasiswa mungkin akan kesulitan jika diminta untuk menggunakan kedua hal ini
+
+4. Lambda expressions:
+        -> Dalam kode saya, saya menggunakan Lambda expression untuk remove item.
+        Besar kemungkinannya mahasiswa tidak mengetahui hal ini.
